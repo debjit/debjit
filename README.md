@@ -12,9 +12,9 @@
 
 
 ## 📫 How to reach me: 
- - [twitter](https://twitter.com/debjit012)
- - [website](https://debjit.in)
+ - [Twitter](https://twitter.com/debjit012)
  - [Linkedin](https://www.linkedin.com/in/debjitwb/)
+ - [Website](https://debjit.in)
 <!--
 **debjit/debjit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
