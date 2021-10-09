@@ -3,7 +3,7 @@
 
 ## I am a self-taught Laravel Dev, Learning React, Next.js and Tailwindcss
 
-- 🔭 I’m currently working on [OpenExam](https://github.com/alpana-Web-Solution/openexam), [Blood Donation Diary](https://github.com/Alpana-Web-Solution/bddv1)...
+- 🔭 I’m currently working on [OpenExam](https://github.com/alpana-Web-Solution/openexam).
 - 🌱 I’m currently learning React,Next.js and Laravel Test...
 - 👯 I’m looking to collaborate on Laravel...
 - 🤔 I’m looking for help with React and next.js Projects...
@@ -16,7 +16,11 @@
  - [Linkedin](https://www.linkedin.com/in/debjitwb/)
  - [Website](https://debjit.in)
 
-## I work with:
+## What are my featured projects❓
+[OpenExam](https://github.com/alpana-Web-Solution/openexam)<br>
+[Blood Donation Diary](https://github.com/Alpana-Web-Solution/bddv1)
+
+## I work with :
 <p>
  <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" /> </a>
  <a href="https://laravel.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40"/> </a>
