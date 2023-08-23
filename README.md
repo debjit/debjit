@@ -3,12 +3,12 @@
 
 ## I am a self-taught Laravel Dev, Learning React, Next.js and Tailwindcss
 
-- 🔭 I’m currently working on [OpenExam](https://github.com/alpana-Web-Solution/openexam) v2 With Laravel(API) Next.JS And React-native.
-- 🌱 I’m currently learning React,Next.js and Laravel Test...
+- 🔭 I’m currently working on [Donation Diary](https://github.com/debjit/hackathon-bdd) v2 With Laravel(API) filament(admin) And React-native(Mobile).
+- 🌱 I’m currently learning React,Next.js and Laravel...
 - 👯 I’m looking to collaborate on Laravel...
 - 🤔 I’m looking for help with React and next.js Projects...
 - 💬 Ask me about Laravel...
-- 😄 Pronouns: De-b-jit...
+- 😄 Pronouns: Deb-jit...
 
 
 ## 📫 How to reach me: 
@@ -19,6 +19,7 @@
 ## What are my featured projects❓
 [OpenExam](https://github.com/alpana-Web-Solution/openexam)<br>
 [Blood Donation Diary](https://github.com/Alpana-Web-Solution/bddv1)
+[v2 Donation Diary](https://github.com/debjit/hackathon-bdd)
 
 ## I work with :
 <p>
