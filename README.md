@@ -4,14 +4,14 @@
 ## I am a self-taught Laravel Dev, Learning React, Next.js and Tailwindcss
 
 - 🔭 I’m currently working on [Donation Diary](https://github.com/debjit/hackathon-bdd) v2 With Laravel(API) filament(admin) And React-native(Mobile).
-- 🌱 I’m currently learning React,Next.js and Laravel...
+- 🌱 I’m currently learning React, React-Native, Next.js and Laravel...
 - 👯 I’m looking to collaborate on Laravel...
-- 🤔 I’m looking for help with React and next.js Projects...
+- 🤔 I’m looking for help with React and Next. js Projects...
 - 💬 Ask me about Laravel...
-- 😄 Pronouns: Deb-jit...
+- 😄 Pronouns: Deb-O-jit...
 
 
-## 📫 How to reach me: 
+## 📫 How to reach me:
  - [Twitter](https://twitter.com/debjit012)
  - [Linkedin](https://www.linkedin.com/in/debjitwb/)
  - [Website](https://debjit.in)
@@ -21,7 +21,7 @@
 [Blood Donation Diary](https://github.com/Alpana-Web-Solution/bddv1)<br>
 [v2 Donation Diary](https://github.com/debjit/hackathon-bdd)<br>
 
-## I work with :
+## I work with:
 <p>
  <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" /> </a>
  <a href="https://laravel.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40"/> </a>
@@ -64,6 +64,28 @@
  
  
 </p>
+.
+## Open Source contributions:
+
+<a href="[https://reactplay.io](https://github.com/reactplay)" target="_blank"> 
+  <img src="https://avatars.githubusercontent.com/u/106463282?s=200&v=4" alt="React Play" width="40" height="40" />
+ </a>
+
+## Currently working:
+
+[Dynamite Form](https://github.com/debjit/dynamite-form)
+A self-hosted proof-of-concept dynamic form builder.
+
+## Hackathons:
+
+1. Showwcase Hackathon: Got the top 10 
+2. Reactplay Hackathon: 2nd runnerup
+<p>
+ <a href="[https://reactplay.io](https://github.com/reactplay)" target="_blank"> 
+  <img src="https://user-images.githubusercontent.com/565922/269206751-31271101-9de5-4e53-9aee-474615cd10c8.jpeg" alt="React Play" width="320" height="180" />
+ </a>
+</p> 
+    
 <!--
 **debjit/debjit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
