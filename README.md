@@ -64,7 +64,7 @@
  
  
 </p>
-.
+
 ## Open Source contributions:
 
 <a href="[https://reactplay.io](https://github.com/reactplay)" target="_blank"> 
